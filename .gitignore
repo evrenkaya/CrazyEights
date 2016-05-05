@@ -1,0 +1,6 @@
+# VS related stuff
+Debug/
+
+*.opensdf
+*.sdf
+*.suo
